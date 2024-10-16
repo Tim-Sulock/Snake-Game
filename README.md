@@ -6,7 +6,11 @@ The game has several methods including:
 - ***A playSound method that plays sound effects when they are called upon***
 - and several more to carry out basic functions for the game
 
+# Pictures
 
 ![image](https://github.com/user-attachments/assets/c4ec7f42-d1b6-4118-9a6c-a82395589404)
+
+![image](https://github.com/user-attachments/assets/dd435b80-e333-40e7-b73d-f94431bdfc28)
+
 
 
